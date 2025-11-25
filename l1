@@ -9,8 +9,8 @@
   "logoUrl": "",
   "isUnLockOptionTemplate": 0,
   "listPorata": "454, 921, 1852",
-  "typeReadHpMod": 1,
-  "typeGetParam": 1,
-  "isPaintRuby": 2
+  "typeReadHpMod": 0,
+  "typeGetParam": 0,
+  "isPaintRuby": 1
 }
 ]
