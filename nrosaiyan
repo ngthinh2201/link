@@ -1,1 +1,16 @@
-
+[
+{
+  "nameServer": "nro",
+  "address": "160.22.160.134",
+  "port": 14444,
+  "language": 0,
+  "typeSv": 0,
+  "homeUrl": "ngthinh220107.id.vn",
+  "logoUrl": "",
+  "isUnLockOptionTemplate": 0,
+  "listPorata": "454, 921",
+  "typeReadHpMod": 0,
+  "typeGetParam": 0,
+  "isPaintRuby": 0
+}
+]
