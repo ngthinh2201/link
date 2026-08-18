@@ -1,10 +1,10 @@
 [
 {
   "nameServer": "Vũ trụ 2027",
-  "address": "163.223.9.183",
+  "address": "165.101.46.190",
   "port": 14445,
   "language": 0,
-  "typeSv": 0,
+  "typeSv": 1,
   "homeUrl": "ngocrong2026.click",
   "logoUrl": "",
   "isUnLockOptionTemplate": 1,
